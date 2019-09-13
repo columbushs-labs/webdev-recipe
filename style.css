@@ -40,7 +40,8 @@ body{
     border: 4px black solid;
     width: 60%;
     overflow: hidden;
-    height: 100%;
+    height: 1000px;
+    
 }
 
 #body{
