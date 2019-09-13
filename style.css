@@ -1,17 +1,50 @@
-div { 
+.heading {
 
-    text-align: center;
-    overflow: hidden;
-    border: 2px solid rgb(50, 0, 78);
-    width: 300px;
-    font-family: Apple Chancery;
-    background-image: url("C02C7203-B8A5-4E10-9B6E-041BA5996C4C.gif");
-    color: white;
-    border-style: outset;
+    font-size: 175%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
 }
 
-div h1 {
+.ingredients{
 
-    font-style: oblique;
+    font-size: 115%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: circle;
+
+}
+
+.instructions{
+    
+    font-size: 115%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+p{
+
+    font-size: 115%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#pancakes{
+
+width: 35%;
+border: 2px black dashed;
+
+}
+
+body{
+
+    border: 4px black solid;
+    width: 60%;
+    overflow: hidden;
+}
+
+#body{
+
+    background-color: antiquewhite;
+    height: 100%;
 
 }
