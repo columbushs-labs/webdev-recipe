@@ -32,7 +32,6 @@ p{
 
 width: 35%;
 border: 2px black dashed;
-border-height: 100%;
 
 }
 
@@ -47,6 +46,6 @@ body{
 #body{
 
     background-color: antiquewhite;
-    height: 100%;
+    height: 1000px;
 
 }
